@@ -1,0 +1,13 @@
+{
+    "name": "com.clonegames.modulesupport",
+    "version": "0.1.0",
+    "displayName": "CG Module Support",
+    "author": {
+        "name": "Lolerji",
+        "email": "lolerji@hotmail.com",
+        "url": "https://github.com/lolerji"
+    },
+    "keywords": [
+       "utility"
+    ]
+}

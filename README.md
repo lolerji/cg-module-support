@@ -1,0 +1,1 @@
+Please endorse: https://github.com/UnioGame/UniGame.AddressableTools
